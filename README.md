@@ -32,9 +32,6 @@ streamlit run app.py
 
 * Random Forest Classifier
 
-## 📁 Project Structure
-
-(Explain your folders here)
 
 ## 📌 Future Improvements
 
